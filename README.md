@@ -15,10 +15,15 @@ The selected topic for the activity is:
 👤 Student Information
 
 Name: Shashank Singh
+
 Roll No.: 22UF17588AI056
+
 Branch/Semester: AIDS/7th
+
 Email: shashank.singh17588@sakec.ac.in￼
+
 LinkedIn: linkedin.com/in/shashanksingh44￼
+
 Portfolio: github.com/crakenthelas4/Research-methodology-￼
 
 🎯 Objective
